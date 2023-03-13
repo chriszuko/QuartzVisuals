@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "QuartzVisuals",
+	"Description": "Used to queue up visual pulses with quartz so that they match BPM.",
+	"Category": "Other",
+	"CreatedBy": "Chris Zuko",
+	"CreatedByURL": "https://www.chriszuko.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "QuartzVisuals",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
